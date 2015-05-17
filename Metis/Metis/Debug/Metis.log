@@ -1,0 +1,72 @@
+﻿Build started 06.04.2011 23:02:09.
+     1>Project "D:\Dokumente\Visual Studio 2010\Projects\Metis\Metis\Metis.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Metis.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Programme\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\Metis.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Metis.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\Metis.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\Metis.lib" /MACHINE:X86 /DLL Debug\balance.obj
+         Debug\bucketsort.obj
+         Debug\ccgraph.obj
+         Debug\coarsen.obj
+         Debug\compress.obj
+         Debug\debug.obj
+         Debug\estmem.obj
+         Debug\fm.obj
+         Debug\fortran.obj
+         Debug\frename.obj
+         Debug\graph.obj
+         Debug\initpart.obj
+         Debug\kmetis.obj
+         Debug\kvmetis.obj
+         Debug\kwayfm.obj
+         Debug\kwayrefine.obj
+         Debug\kwayvolfm.obj
+         Debug\kwayvolrefine.obj
+         Debug\match.obj
+         Debug\mbalance.obj
+         Debug\mbalance2.obj
+         Debug\mcoarsen.obj
+         Debug\memory.obj
+         Debug\mesh.obj
+         Debug\meshpart.obj
+         Debug\mfm.obj
+         Debug\mfm2.obj
+         Debug\mincover.obj
+         Debug\minitpart.obj
+         Debug\minitpart2.obj
+         Debug\mkmetis.obj
+         Debug\mkwayfmh.obj
+         Debug\mkwayrefine.obj
+         Debug\mmatch.obj
+         Debug\mmd.obj
+         Debug\mpmetis.obj
+         Debug\mrefine.obj
+         Debug\mrefine2.obj
+         Debug\mutil.obj
+         Debug\myqsort.obj
+         Debug\ometis.obj
+         Debug\parmetis.obj
+         Debug\pmetis.obj
+         Debug\pqueue.obj
+         Debug\refine.obj
+         Debug\separator.obj
+         Debug\sfm.obj
+         Debug\srefine.obj
+         Debug\stat.obj
+         Debug\subdomains.obj
+         Debug\timing.obj
+         Debug\util.obj
+         Metis.vcxproj -> D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\Metis.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Dokumente\Visual Studio 2010\Projects\Graphs\Debug\Metis.dll;#2" /manifest Debug\Metis.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Metis.unsuccessfulbuild".
+         Touching "Debug\Metis.lastbuildstate".
+     1>Done Building Project "D:\Dokumente\Visual Studio 2010\Projects\Metis\Metis\Metis.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.04

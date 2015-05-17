@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Dokumente/Dropbox/Workspace/jgrapht-jdk1.6.jar" sourcepath="D:/Dokumente/GitHub/Masterthesis/Java/libs/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Dokumente/Dropbox/Workspace/javacsv/javacsv.jar" sourcepath="D:/Dokumente/GitHub/Masterthesis/Java/libs/javacsv.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Dokumente/My Dropbox/Workspace/javacsv/doc/com/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
